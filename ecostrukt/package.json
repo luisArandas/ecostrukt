@@ -1,0 +1,15 @@
+{
+  "name": "ecostrukt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Arandas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "spectrogram": "0.0.7"
+  }
+}
